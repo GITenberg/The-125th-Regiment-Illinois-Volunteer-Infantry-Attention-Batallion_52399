@@ -1,0 +1,27 @@
+_repo: The-125th-Regiment-Illinois-Volunteer-Infantry-Attention-Batallion_52399
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rogers, Robert M.
+    birthdate: 1839
+    deathdate: 1904
+    gutenberg_agent_id: '46840'
+    url: http://www.gutenberg.org/2009/agents/46840
+description: ''
+gutenberg_issued: '2016-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52399'
+  lccn: '17014347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Illinois Infantry Regiment, 125th (1861-1865) -- History'
+- !lcc 'E456'
+- !lcsh 'Illinois -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- GITenberg
+title: 'The 125th Regiment, Illinois Volunteer Infantry: Attention Batallion!'
+url: http://www.gutenberg.org/ebooks/52399
